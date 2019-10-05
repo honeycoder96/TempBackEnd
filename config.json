@@ -1,0 +1,12 @@
+{
+    "hydra": {
+        "serviceName": "user",
+        "serviceIP": "",
+        "serviceType": "",
+        "servicePort": 0,
+        "serviceDescription": "A user microservice",
+        "redis": {
+            "url": "redis://localhost:6379/15"
+        }
+    }
+}
